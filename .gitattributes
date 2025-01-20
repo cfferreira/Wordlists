@@ -1,0 +1,2 @@
+usernames/xato-net-10-million-usernames.txt filter=lfs diff=lfs merge=lfs -text
+passwords/rockyou.txt filter=lfs diff=lfs merge=lfs -text
